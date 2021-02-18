@@ -8,6 +8,7 @@
     android:padding="20dp"
     tools:context=".MainActivity"
     android:transitionGroup="true">
+    
     <TextView android:text="Bluetooth Example"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -90,4 +91,5 @@
         android:layout_alignLeft="@+id/textView2"
         android:layout_alignStart="@+id/btn_layout_1"
         android:layout_below="@+id/textView2" />
+    
 </RelativeLayout>
